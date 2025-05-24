@@ -31,3 +31,6 @@ To run this project locally:
    ```bash
    git clone https://github.com/Tehreem-Javed/online-market-landing-page.git
    ```
+
+📬 Author
+Made with ❤️ by [Tehreem Javed](https://github.com/Tehreem-Javed)
